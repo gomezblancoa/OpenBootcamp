@@ -1,0 +1,27 @@
+.container div{
+    margin: .5rem;
+}
+
+.col-xs{
+    background-color: red;
+}
+
+.col-sm{
+    background-color: yellow;
+}
+
+.col-md{
+    background-color: purple;
+}
+
+.col-lg{
+    background-color: blue;
+}
+
+.col-xl{
+    background-color: pink;
+}
+
+.col-xxl{
+    background-color: greenyellow;
+}
